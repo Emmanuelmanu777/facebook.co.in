@@ -1,0 +1,89 @@
+*{ margin: 0px;}
+.main{
+    background-color: rgb(238, 241, 251);
+    height: 1080px;
+    flex-wrap: wrap;
+
+}
+img{
+    width: 50%;
+}
+.sub1{
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 580px;
+    display: inline-block;
+
+    
+
+}
+.sub2{
+    width: 45%;
+    display: inline-block;
+}
+.sub3{
+height: 280px;
+width: 396px;
+background-color: #ffffff;
+padding: 15px;
+border-radius: 8px;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+
+
+
+}
+input{
+    width: 364px;
+    height: 25px;
+    display: block;
+    margin-top: 8px;
+    padding: 10px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+.button1{
+    background-color: #1877f2;
+    border: 0px;
+    width: 364px;
+    height: 48px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.button2{
+    background-color: #42b72a;
+    border: 0px;
+    width: 192px;
+    height: 48px;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+
+
+}
+a{
+    color: #1877f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main2{
+    position: relative;
+    top:100px;
+
+}
+
+@keyframes a{
+    
+}
